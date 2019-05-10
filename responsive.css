@@ -1,0 +1,25 @@
+@media all and (max-width: 768px){
+	.col-1-3{
+		width: 48%;
+	}
+	.input input[type="submit"]{
+		margin-top: 10px;
+	}
+}
+
+@media all and (max-width: 670px){
+	.col-1-3{
+		width: 98%;
+	}
+	.input input[type="text"]{
+		width: 80%;
+		margin: auto;
+	}
+	.column{
+		text-align: center;
+	}
+}
+
+@media all and (max-width: 400px){
+	
+}
